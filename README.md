@@ -29,11 +29,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Explorer é o programa mais completo de formação da Rocketseat onde você desenvolve as habilidades técnicas e comportamentais pra decolar na carreira de dev.
 
-- [Acesse o projeto finalizado, online](https://jakunzler.github.io/explorer_stage03_responsividade_mobile/)
+- [Acesse o projeto finalizado, online](https://jakunzler.github.io/explorer_stage03_responsividade/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ablfNEHueJu5bue2yQGLg5/Stage-03---Mobile-First-(Copy)?t=fg0YS1AcuRl5N7Xf-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mEx5NazEPmtaOY0Eu4dPf3/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3&t=rnL82w0DEJ2BWODv-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
